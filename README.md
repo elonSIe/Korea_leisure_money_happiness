@@ -25,9 +25,9 @@
     
 3. Elderly peoople tend to spend less money having leisures compared to younger people.
 
-4. Happiness and safistaction could be different.
+4. Peopple with 'offline' leisures tend to feel more satisfied by their life in general.
 
-5. 
+5. Happiness and safistaction could be different.
 --------------------------------------    
 * Note : \
 Created new data from raw version : \
