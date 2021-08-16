@@ -6,7 +6,7 @@
 --------------------------------------
 * Content :
 1. Leisure Cost - Barplot \
-        Each by Household Income and Age Group
+        Each by Household Income, Education Level and Age Group
 2. Happiness Level - Lineplot \
         Each by Education Level and Household Income
 3. General Info - Pie \
@@ -14,14 +14,20 @@
 --------------------------------------   
 * Note :
 1. The more household income you have, \
-    --> the more money you spend (especially having 'offline' leisures) \
+    --> the more money you spend having leisure (especially 'offline' activity) \
     --> the more happy you are \
-    --> the more you feel satisfied and happy from offline leisures
+    --> the more you feel satisfied and happy from 'offline' leisure time
     
 2. The more you are officially educated, \
-    --> the more money you spend (especially having 'offline' leisure) \
+    --> the more money you spend having leisure (especially 'offline' activity) \
     --> the more happy you are \
-    --> the more you feel satisfied and happy from offline leisures
+    --> the more you feel satisfied and happy from 'offline' leisure time
+    
+3. Elderly peoople tend to spend less money having leisures compared to younger people.
+
+4. Happiness and safistaction could be different.
+
+5. 
 --------------------------------------    
 * Note : \
 Created new data from raw version : \
