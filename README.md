@@ -24,7 +24,7 @@
     --> the more you feel satisfied and happy from offline leisures
 --------------------------------------    
 * Note : \
-A. Created new data from raw version : \
+Created new data from raw version : \
     (1) Translated columns from Korean to English \
     (2) Added new column of "online" \
         - To categorize leisure activities whether it is 'online' of 'offline
